@@ -8,14 +8,8 @@ export default function App() {
       <h1>Weather</h1>
       <footer>
         This project was coded by
-        <a href="" target="_blank">
-          {" "}
-          Leila Nortje
-        </a>{" "}
-        and is open-sourced on{" "}
-        <a href="" target="_blank">
-          github
-        </a>
+        <a href=""> Leila Nortje</a> and is open-sourced on{" "}
+        <a href="">github</a>
       </footer>
     </div>
   );
