@@ -7,9 +7,8 @@ export default function App() {
       {" "}
       <h1>Weather</h1>
       <footer>
-        This project was coded by
-        <a href=""> Leila Nortje</a> and is open-sourced on{" "}
-        <a href="">github</a>
+        This project was coded by Leila Nortje and is open-sourced on{" "}
+        <a href="https://github.com/leila017/react-weather-app">github</a>
       </footer>
     </div>
   );
