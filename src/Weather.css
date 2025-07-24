@@ -23,21 +23,24 @@
 }
 
 .Weather img {
-  height: 56px;
+  height: 64px;
   display: inline-block;
-  object-fit: contain;
-  font-size: 48px;
+  margin-right: 10px;
+  position: relative;
+  top: -15px;
 }
 
 .Weather .temperature {
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 55px;
+  line-height: 64px;
   font-weight: 460;
+  margin-right: 5px;
 }
-
-.clearfix {
-  display: flex;
-  align-items: center;
-  font-size: 24px;
-  gap: 8px;
+.Weather .unit {
+  display: inline;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgb(83, 81, 81);
+  position: relative;
+  top: -25px;
 }
